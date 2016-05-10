@@ -1,0 +1,52 @@
+body {
+  width: auto;
+  height: auto;
+}
+
+h1 {
+  font-family: 'Finger Paint', cursive;
+  text-align: center;
+  font-size: 35px;
+}
+
+form {
+  font-family: 'Finger Paint', cursive;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+  border: 5px solid grey;
+}
+
+.naam input {
+  width: 90%;
+  height: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid grey;
+}
+
+
+.dag select {
+  width: 90%;
+  height: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid grey;
+}
+
+.maand select {
+  width: 90%;
+  height: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid grey;
+}
+
+.jaar select {
+  width: 90%;
+  height: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid grey;
+}

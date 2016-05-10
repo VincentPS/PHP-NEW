@@ -1,0 +1,50 @@
+body {
+	height: 100%;
+	background-image: url(html/images/background-home.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	font-family: 'Coming Soon', cursive;
+	color: white;
+	font-weight: bold;
+}
+
+.inloggen .register_form {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 11%;
+	width: 500px;
+}
+.inloggen h1 {
+	text-align: center;
+	font-size: 50px;
+}
+
+.inloggen input {
+	width: 300px;
+	height: 50px;
+	border: none;
+	margin: 5px;
+	margin-top: 15px;
+	font-family: 'Coming Soon', cursive;
+	font-size: 20px;
+	padding: 5px;
+	font-weight: bold;
+}
+
+.inloggen input:hover {
+	background-color: #efefef;
+}
+
+.inloggen .email_input {
+	margin-left: 38px;
+}
+
+.inloggen .password_input {
+	margin-left: 9px;
+}
